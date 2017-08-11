@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MFCApplication1", "MFCApplication1\MFCApplication1.vcxproj", "{ED3C7B9C-9C06-4771-9B24-E5D732D6186C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED3C7B9C-9C06-4771-9B24-E5D732D6186C}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{ED3C7B9C-9C06-4771-9B24-E5D732D6186C}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{ED3C7B9C-9C06-4771-9B24-E5D732D6186C}.Debug|Win32.ActiveCfg = Debug|x64
+		{ED3C7B9C-9C06-4771-9B24-E5D732D6186C}.Debug|Win32.Build.0 = Debug|x64
+		{ED3C7B9C-9C06-4771-9B24-E5D732D6186C}.Debug|x64.ActiveCfg = Debug|x64
+		{ED3C7B9C-9C06-4771-9B24-E5D732D6186C}.Debug|x64.Build.0 = Debug|x64
+		{ED3C7B9C-9C06-4771-9B24-E5D732D6186C}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{ED3C7B9C-9C06-4771-9B24-E5D732D6186C}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{ED3C7B9C-9C06-4771-9B24-E5D732D6186C}.Release|Win32.ActiveCfg = Release|Win32
+		{ED3C7B9C-9C06-4771-9B24-E5D732D6186C}.Release|Win32.Build.0 = Release|Win32
+		{ED3C7B9C-9C06-4771-9B24-E5D732D6186C}.Release|x64.ActiveCfg = Release|x64
+		{ED3C7B9C-9C06-4771-9B24-E5D732D6186C}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
